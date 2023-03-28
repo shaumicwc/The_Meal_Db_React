@@ -1,0 +1,16 @@
+.meals-container.meal{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.meals-container.meal .meal-image{
+    width: 300px;
+}
+.select-btn{
+    width: 100%;
+}
+.select-btn:hover{
+    background-color: #ff9900;
+    transition: 0.05s;
+}
